@@ -28,3 +28,9 @@ Features
 - Update Member Information
 - Delete Member Record
 - Search Member
+Contributor Update
+
+Contributor Name: 
+
+Feature Added:
+- Digital Library Dashboard
